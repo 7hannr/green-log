@@ -30,6 +30,7 @@
 - 개발 과정에서 프론트엔드와 백엔드 간의 원활한 통합을 지원하고, CSS로 디자인 요소들을 통일성 있게 구성함.
 
 ### **주요페이지 설명(일부)**:
+![db](https://github.com/user-attachments/assets/028ab7a7-e28b-46be-baec-a768e81db9ab)
 ![image](https://github.com/user-attachments/assets/824450b0-eca0-40f7-a039-042c6628e634)
 ![image](https://github.com/user-attachments/assets/51d30445-8a1d-42ce-b679-24a39a913f25)
 ![image](https://github.com/user-attachments/assets/1e2c3415-5e4d-4c5c-b121-c5157d3e561e)
